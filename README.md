@@ -1,4 +1,4 @@
-# google-compute-engine-template
+# google-compute-engine-tutorial
 for host apache web on gce
 
 ## 建立VM執行個體
